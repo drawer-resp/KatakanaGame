@@ -4,7 +4,19 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0a58c86c-e7be-4fef-99fd-8da6bac3f97c" name="Changes" comment="adding README and LICENSE" />
+    <list default="true" id="0a58c86c-e7be-4fef-99fd-8da6bac3f97c" name="Changes" comment="adding README and LICENSE">
+      <change afterPath="$PROJECT_DIR$/src/CurrentQuest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DocumentListener.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/GameWindow.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/KatakanaGame.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Mondai.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/QuestionPool.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ScoreTrack.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/hintPressed.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/imageLoader.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -59,6 +71,9 @@
     "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
     "onboarding.tips.debug.path": "C:/Users/user/IdeaProjects/KatakanaGame/src/Main.java",
+    "project.structure.last.edited": "Artifacts",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
@@ -117,7 +132,7 @@
       <workItem from="1721117550194" duration="5241000" />
       <workItem from="1721135804846" duration="9422000" />
       <workItem from="1721183734186" duration="12335000" />
-      <workItem from="1721227247142" duration="1039000" />
+      <workItem from="1721227247142" duration="4347000" />
     </task>
     <task id="LOCAL-00001" summary="adding README and LICENSE">
       <option name="closed" value="true" />
