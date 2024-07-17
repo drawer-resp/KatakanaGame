@@ -1,6 +1,7 @@
 # KatakanaGame
 
 This is a simple Java Swing application for learning Katakana characters.
+Started by me on 14 07 2024
 
 ## Installation
 
