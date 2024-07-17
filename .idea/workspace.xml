@@ -5,31 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="0a58c86c-e7be-4fef-99fd-8da6bac3f97c" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/KatakanaGame.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/CurrentQuest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DocumentListener.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/GameWindow.form" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/GameWindow.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Mondai.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/QuestionPool.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ScoreTrack.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/hintPressed.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/imageLoader.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/Questions.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/hints/aisu.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/hints/anime.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/hints/jojo.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/hints/tai.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/hints/terebi.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/hints/toire.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/shikanoko-nokonoko-koshitantan-my-deer-friend-nokatan.gif" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -46,18 +22,18 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
-  "lastFilter": {
-    "state": "OPEN",
-    "assignee": "drawer-resp"
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;drawer-resp&quot;
   }
-}]]></component>
-  <component name="GithubPullRequestsUISettings"><![CDATA[{
-  "selectedUrlAndAccountId": {
-    "url": "https://github.com/drawer-resp/KatakanaGame.git",
-    "accountId": "ef71a1e7-3f42-458f-bbb0-870ae3b8038e"
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/drawer-resp/KatakanaGame.git&quot;,
+    &quot;accountId&quot;: &quot;ef71a1e7-3f42-458f-bbb0-870ae3b8038e&quot;
   }
-}]]></component>
+}</component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 6
 }</component>
@@ -67,23 +43,24 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Application.GameWindow.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Main.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Mondai.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
-    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;onboarding.tips.debug.path&quot;: &quot;C:/Users/user/IdeaProjects/KatakanaGame/src/Main.java&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.GameWindow.executor": "Run",
+    "Application.Main.executor": "Run",
+    "Application.Mondai.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "master",
+    "ignore.virus.scanning.warn.message": "true",
+    "kotlin-language-version-configured": "true",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "onboarding.tips.debug.path": "C:/Users/user/IdeaProjects/KatakanaGame/src/Main.java",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
   <component name="RunManager" selected="Application.Main">
     <configuration name="GameWindow" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="GameWindow" />
@@ -139,6 +116,7 @@
       <workItem from="1721117550194" duration="5241000" />
       <workItem from="1721135804846" duration="9422000" />
       <workItem from="1721183734186" duration="12335000" />
+      <workItem from="1721227247142" duration="735000" />
     </task>
     <servers />
   </component>
