@@ -10,7 +10,6 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="0a58c86c-e7be-4fef-99fd-8da6bac3f97c" name="Changes" comment="adding README and LICENSE">
-      <change beforePath="$PROJECT_DIR$/.idea/artifacts/KatakanaGame_jar.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/artifacts/KatakanaGame_jar.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -131,7 +130,7 @@
       <workItem from="1721117550194" duration="5241000" />
       <workItem from="1721135804846" duration="9422000" />
       <workItem from="1721183734186" duration="12335000" />
-      <workItem from="1721227247142" duration="5154000" />
+      <workItem from="1721227247142" duration="5943000" />
     </task>
     <task id="LOCAL-00001" summary="adding README and LICENSE">
       <option name="closed" value="true" />
@@ -160,5 +159,16 @@
     <MESSAGE value="adding README.md and LICENSE.txt" />
     <MESSAGE value="adding README and LICENSE" />
     <option name="LAST_COMMIT_MESSAGE" value="adding README and LICENSE" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Main.java</url>
+          <line>3</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
