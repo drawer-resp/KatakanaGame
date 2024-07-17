@@ -1,18 +1,31 @@
-//TIP To <b>Run</b> code, press <shortcut actionId="Run"/> or
-// click the <icon src="AllIcons.Actions.Execute"/> icon in the gutter.
+import javax.swing.*;
+import java.io.IOException;
+
 public class Main
 {
     public static void main(String[] args)
     {
-        //TIP Press <shortcut actionId="ShowIntentionActions"/> with your caret at the highlighted text
-        // to see how IntelliJ IDEA suggests fixing it.
-        System.out.printf("Hello and welcome!");
-
-        for (int i = 1; i <= 5; i++)
+        // Call the constructor of GameWindow inside the Event Dispatch Thread (EDT)
+        SwingUtilities.invokeLater(() ->
         {
-            //TIP Press <shortcut actionId="Debug"/> to start debugging your code. We have set one <icon src="AllIcons.Debugger.Db_set_breakpoint"/> breakpoint
-            // for you, but you can always add more by pressing <shortcut actionId="ToggleLineBreakpoint"/>.
-            System.out.println("i = " + i);
-        }
+            try
+            {
+                // Initialize QuestionPool with the path to your questions file
+                QuestionPool questionPool = new QuestionPool("main/resources/Questions.txt");
+
+                // Create an instance of GameWindow, passing the QuestionPool instance
+                GameWindow gameWindow = new GameWindow(questionPool);
+
+                // Make the window visible
+                gameWindow.setVisible(true);
+
+            } catch (IOException e)
+            {
+                // Handle IOException (e.g., show error message, log the error)
+                JOptionPane.showMessageDialog(null, "Error loading questions: " + e.getMessage());
+                e.printStackTrace(); // Print stack trace for debugging
+                System.exit(1); // Exit application on error
+            }
+        });
     }
 }
