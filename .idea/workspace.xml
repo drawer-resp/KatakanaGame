@@ -10,41 +10,36 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="0a58c86c-e7be-4fef-99fd-8da6bac3f97c" name="Changes" comment="adding README and LICENSE">
-      <change afterPath="$PROJECT_DIR$/src/main/resources/hints/abisu.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/hints/amerika.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/hints/baikingu.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/hints/bando.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/hints/danjon.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/hints/eakon.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/hints/erufu.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/hints/furenchi.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/hints/gaido.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/hints/goburin.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/hints/gojira.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/hints/gyaru.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/hints/hororaibu.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/hints/iesutadei.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/hints/kamera.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/hints/karaoke.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/hints/naruto.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/hints/nikoniko.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/hints/pasokon.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/hints/piza.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/hints/pointo.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/hints/poteto.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/hints/ramen.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/hints/remon.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/hints/resutoran.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/hints/songu.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/hints/tobaku.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/hints/toradora.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/hints/toranpu.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/hints/uirusu.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/hints/wanpanman.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/hints/zero.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/hints/ajia.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/hints/anpanman.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/hints/barentain.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/hints/basu.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/hints/daiamondo.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/hints/doa.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/hints/firumu.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/hints/gasorin.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/hints/jimu.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/hints/kanada.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/hints/kawakiwoameku.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/hints/kiroguramu.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/hints/konbini.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/hints/mongoru.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/hints/naifu.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/hints/nekutai.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/hints/obama.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/hints/piano.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/hints/poteto.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/hints/roshia.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/hints/sarada bouru.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/hints/shinema.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/hints/taipu.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/hints/tenisu.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/hints/waifu.jpg" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/CurrentQuest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/CurrentQuest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Mondai.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Mondai.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/resources/Questions.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/Questions.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/hints/poteto.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/hints/zero.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/hints/zero.jpg" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -85,30 +80,30 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "ASKED_ADD_EXTERNAL_FILES": "true",
-    "Application.GameWindow.executor": "Run",
-    "Application.Main.executor": "Run",
-    "Application.Mondai.executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "git-widget-placeholder": "master",
-    "ignore.virus.scanning.warn.message": "true",
-    "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "C:/Users/user/IdeaProjects/KatakanaGame/artifacts/KatakanaGame_jar",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "onboarding.tips.debug.path": "C:/Users/user/IdeaProjects/KatakanaGame/src/Main.java",
-    "project.structure.last.edited": "Artifacts",
-    "project.structure.proportion": "0.15",
-    "project.structure.side.proportion": "0.2",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
+    &quot;Application.GameWindow.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Main.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Mondai.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/user/IdeaProjects/KatakanaGame/artifacts/KatakanaGame_jar&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;onboarding.tips.debug.path&quot;: &quot;C:/Users/user/IdeaProjects/KatakanaGame/src/Main.java&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Artifacts&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RunManager" selected="Application.Main">
     <configuration name="GameWindow" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="GameWindow" />
@@ -166,6 +161,7 @@
       <workItem from="1721183734186" duration="12335000" />
       <workItem from="1721227247142" duration="6751000" />
       <workItem from="1721265474722" duration="3977000" />
+      <workItem from="1721302463935" duration="3871000" />
     </task>
     <task id="LOCAL-00001" summary="adding README and LICENSE">
       <option name="closed" value="true" />

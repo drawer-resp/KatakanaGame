@@ -113,6 +113,11 @@ public class Mondai
         ROMAJI_TO_KATAKANA_MAP.put("ja", "ジャ");
         ROMAJI_TO_KATAKANA_MAP.put("ju", "ジュ");
         ROMAJI_TO_KATAKANA_MAP.put("jo", "ジョ");
+
+        ROMAJI_TO_KATAKANA_MAP.put("fa", "ファ");
+        ROMAJI_TO_KATAKANA_MAP.put("fi", "フィ");
+        ROMAJI_TO_KATAKANA_MAP.put("fe", "フェ");
+        ROMAJI_TO_KATAKANA_MAP.put("fo", "フォ");
     }
 
     public static String convert(String romaji)
