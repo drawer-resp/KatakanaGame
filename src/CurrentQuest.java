@@ -21,15 +21,22 @@ public class CurrentQuest
         String basePath = "main/resources/hints/";
         String jpgPath = basePath + currentQuest + ".jpg";
         String pngPath = basePath + currentQuest + ".png";
+        String gifPath = basePath + currentQuest + ".gif";
 
         if (Existance(jpgPath))
         {
             return jpgPath;
-        } else if (Existance(pngPath))
+        }
+        else if (Existance(pngPath))
         {
             return pngPath;
         }
-        else {
+        else if (Existance(gifPath))
+        {
+            return gifPath;
+        }
+        else
+        {
             return null; // or handle the case where neither file exists
         }
     }

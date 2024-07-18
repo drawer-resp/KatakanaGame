@@ -10,7 +10,41 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="0a58c86c-e7be-4fef-99fd-8da6bac3f97c" name="Changes" comment="adding README and LICENSE">
+      <change afterPath="$PROJECT_DIR$/src/main/resources/hints/abisu.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/hints/amerika.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/hints/baikingu.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/hints/bando.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/hints/danjon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/hints/eakon.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/hints/erufu.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/hints/furenchi.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/hints/gaido.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/hints/goburin.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/hints/gojira.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/hints/gyaru.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/hints/hororaibu.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/hints/iesutadei.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/hints/kamera.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/hints/karaoke.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/hints/naruto.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/hints/nikoniko.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/hints/pasokon.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/hints/piza.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/hints/pointo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/hints/poteto.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/hints/ramen.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/hints/remon.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/hints/resutoran.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/hints/songu.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/hints/tobaku.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/hints/toradora.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/hints/toranpu.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/hints/uirusu.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/hints/wanpanman.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/hints/zero.jpg" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/CurrentQuest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/CurrentQuest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/Questions.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/Questions.txt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -131,7 +165,7 @@
       <workItem from="1721135804846" duration="9422000" />
       <workItem from="1721183734186" duration="12335000" />
       <workItem from="1721227247142" duration="6751000" />
-      <workItem from="1721265474722" duration="105000" />
+      <workItem from="1721265474722" duration="3977000" />
     </task>
     <task id="LOCAL-00001" summary="adding README and LICENSE">
       <option name="closed" value="true" />
