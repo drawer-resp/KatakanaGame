@@ -62,7 +62,7 @@
     "git-widget-placeholder": "master",
     "ignore.virus.scanning.warn.message": "true",
     "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "C:/Users/user/IdeaProjects/KatakanaGame/out/artifacts/KatakanaGame_jar",
+    "last_opened_file_path": "C:/Users/user/IdeaProjects/KatakanaGame/artifacts/KatakanaGame_jar",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -130,7 +130,8 @@
       <workItem from="1721117550194" duration="5241000" />
       <workItem from="1721135804846" duration="9422000" />
       <workItem from="1721183734186" duration="12335000" />
-      <workItem from="1721227247142" duration="5943000" />
+      <workItem from="1721227247142" duration="6751000" />
+      <workItem from="1721265474722" duration="105000" />
     </task>
     <task id="LOCAL-00001" summary="adding README and LICENSE">
       <option name="closed" value="true" />

@@ -5,7 +5,8 @@ Started by me on 14 07 2024
 
 ## Installation
 
-Clone the repository and import the project into your IDE.
+
+Download Jar file from directory [artifacts](./artifacts) or Clone the repository and import the project into your IDE.
 
 ## Usage
 
