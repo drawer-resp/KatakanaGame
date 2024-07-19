@@ -50,7 +50,7 @@ public class DocumentListener implements javax.swing.event.DocumentListener
 
     private void checkanswer(String ans)
     {
-        if(Objects.equals(ans, CurrentQuest.getQuest()))
+        if(ans.equalsIgnoreCase(CurrentQuest.getQuest()))
         {
             SwingUtilities.invokeLater(this::updateQuestion);
         }

@@ -10,36 +10,22 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="0a58c86c-e7be-4fef-99fd-8da6bac3f97c" name="Changes" comment="adding README and LICENSE">
-      <change afterPath="$PROJECT_DIR$/src/main/resources/hints/ajia.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/hints/anpanman.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/hints/barentain.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/hints/basu.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/hints/daiamondo.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/hints/doa.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/hints/firumu.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/hints/gasorin.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/hints/jimu.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/hints/kanada.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/hints/kawakiwoameku.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/hints/kiroguramu.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/hints/konbini.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/hints/mongoru.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/hints/naifu.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/hints/nekutai.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/hints/obama.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/hints/piano.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/hints/poteto.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/hints/roshia.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/hints/sarada bouru.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/hints/shinema.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/hints/taipu.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/hints/tenisu.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/hints/waifu.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/hints/betonamu.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/hints/doraemon.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/hints/gyanburu.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/hints/homunkurusu.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/hints/insomunia.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/hints/jamu.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/hints/kawaki wo ameku.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/hints/korekushon.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/hints/kyarameru.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/hints/minyan.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/hints/miruku.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/hints/supesharu.jpg" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Mondai.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Mondai.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/DocumentListener.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/DocumentListener.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/resources/Questions.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/Questions.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/hints/poteto.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/hints/zero.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/hints/zero.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/hints/kawakiwoameku.jpg" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -161,7 +147,9 @@
       <workItem from="1721183734186" duration="12335000" />
       <workItem from="1721227247142" duration="6751000" />
       <workItem from="1721265474722" duration="3977000" />
-      <workItem from="1721302463935" duration="3871000" />
+      <workItem from="1721302463935" duration="4046000" />
+      <workItem from="1721358117899" duration="27000" />
+      <workItem from="1721358319296" duration="2043000" />
     </task>
     <task id="LOCAL-00001" summary="adding README and LICENSE">
       <option name="closed" value="true" />
