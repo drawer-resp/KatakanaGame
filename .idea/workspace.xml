@@ -10,22 +10,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="0a58c86c-e7be-4fef-99fd-8da6bac3f97c" name="Changes" comment="adding README and LICENSE">
-      <change afterPath="$PROJECT_DIR$/src/main/resources/hints/betonamu.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/hints/doraemon.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/hints/gyanburu.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/hints/homunkurusu.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/hints/insomunia.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/hints/jamu.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/hints/kawaki wo ameku.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/hints/korekushon.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/hints/kyarameru.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/hints/minyan.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/hints/miruku.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/hints/supesharu.jpg" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/DocumentListener.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/DocumentListener.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/Questions.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/Questions.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/hints/kawakiwoameku.jpg" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -149,7 +134,7 @@
       <workItem from="1721265474722" duration="3977000" />
       <workItem from="1721302463935" duration="4046000" />
       <workItem from="1721358117899" duration="27000" />
-      <workItem from="1721358319296" duration="2043000" />
+      <workItem from="1721358319296" duration="2226000" />
     </task>
     <task id="LOCAL-00001" summary="adding README and LICENSE">
       <option name="closed" value="true" />
